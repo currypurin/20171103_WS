@@ -23,6 +23,8 @@
 ## チュートリアル
 [20171103\_WS/Julia高速チュートリアル\.ipynb at master · currypan/20171103\_WS](https://github.com/currypan/20171103_WS/blob/master/Julia%E9%AB%98%E9%80%9F%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB.ipynb)
 
+## Stan
+[Walkthrough · Stan](http://goedman.github.io/Stan.jl/latest/WALKTHROUGH.html)
 
 ## 参考
 [bicycle1885/Julia\-Tutorial: 高速でJuliaを学ぶチュートリアル](https://github.com/bicycle1885/Julia-Tutorial)
