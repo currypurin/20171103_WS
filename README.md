@@ -2,6 +2,9 @@
 
 ## Julia データサイエンス
 
+### Julia For Data Science
+[data\-refinement/Julia\-for\-Data\-Science: Code Repository for Julia for Data Science, published by Packt](https://github.com/data-refinement/Julia-for-Data-Science)
+
 ### 1章
 [Julia\-for\-Data\-Science/Chapter 01/v0\.6 at 20171103work · data\-refinement/Julia\-for\-Data\-Science](https://github.com/data-refinement/Julia-for-Data-Science/tree/20171103work/Chapter%2001/v0.6)
 
